@@ -67,7 +67,7 @@ A machine learning project to predict book popularity for an online bookstore us
 ### Model Performance Details
 - **Target Accuracy:** 70% ✅ (Achieved 74.19%)
 - **Confusion Matrix:**  
-  ![Confusion Matrix](assets/confusion_matrix.png)
+  ![Confusion Matrix](workspace/assets/confusion_matrix.png)
 
 - **Classification Report:** Detailed precision, recall, F1-score
 
