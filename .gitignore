@@ -13,7 +13,9 @@ __pycache__/
 .DS_Store
 
 # Data files
-workspace/data/
+workspace/data/*
+!workspace/data/.gitkeep
 
 #model files
-workspace/models
+workspace/models/*
+!workspace/models/.gitkeep
